@@ -38,6 +38,9 @@
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
   </a>
+  <a href="https://www.django-rest-framework.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/encode/django-rest-framework/master/docs/img/logo.png" title="Django Rest Framework" width="40" height="40"/>
+  </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
   </a>
@@ -56,10 +59,6 @@
   <a href="https://www.docker.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
   </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" title="Django Rest Framework" width="40" height="40"/>
-  </a>
-  ![Django Rest Framework](https://img.shields.io/badge/DRF-Django%20Rest%20Framework-red)
 </p>
 
 
