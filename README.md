@@ -1,5 +1,3 @@
-![Django Rest Framework](https://img.shields.io/badge/DRF-Django%20Rest%20Framework-red)
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&width=700&lines=Hi%2C+there!+I'm+Azizbek+Ahmadjonov;Welcome+to+my+GitHub!+👋">
 </h1>
@@ -39,9 +37,6 @@
   </a>
   <a href="https://www.djangoproject.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg" title="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.django-rest-framework.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django Rest Framework" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40"/>
