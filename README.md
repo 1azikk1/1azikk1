@@ -59,6 +59,7 @@
   <a href="https://www.django-rest-framework.org/" target="_blank">
     <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django Rest Framework" title="Django Rest Framework" width="40" height="40"/>
   </a>
+  ![Django Rest Framework](https://img.shields.io/badge/DRF-Django%20Rest%20Framework-red)
 </p>
 
 
