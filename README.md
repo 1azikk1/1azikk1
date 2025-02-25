@@ -53,7 +53,11 @@
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
   </a>
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
+  </a>
 </p>
+
 
 ---
 
