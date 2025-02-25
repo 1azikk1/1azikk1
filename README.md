@@ -1,3 +1,5 @@
+![Django Rest Framework](https://img.shields.io/badge/DRF-Django%20Rest%20Framework-red)
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&width=700&lines=Hi%2C+there!+I'm+Azizbek+Ahmadjonov;Welcome+to+my+GitHub!+👋">
 </h1>
